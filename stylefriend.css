@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main {
+
+    background-color: black;
+  
+}
+.abc{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    border-radius: 50%;
+}
+#container{
+    animation: bounceIn 3s 1;
+    display: none;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    width: 400px;
+    height: 600px;
+    background-color:white;
+    box-shadow: 10px 10px 20px black;
+}
+h1{
+    text-align: center;
+    color: teal;
+    animation: flash 3s infinite;
+}
+#happy{
+    width: 25rem;
+    animation: tada 1s infinite;
+}
+.a{
+    animation: lightSpeedInLeft 3s 1;
+    margin: 20px;
+    color: tomato;
+    
+}
+.b{
+    animation: lightSpeedInRight 3s 1;
+    margin: 30px 20px;
+    color: yellowgreen;
+    
+}
+.left{
+    height: 100vh;
+}
+
+.right{
+   position: absolute;
+    top: 0px;
+    left: 98%;
+    height: 100vh;
+    width: 22px;
+    
+}
+.top{
+   position: absolute;
+   top: 0px;
+   left: 0px;
+  
+
+}
+.bottom{
+    position: absolute;
+    top: 97vh;
+    left: 0px;
+   
+    
+ 
+ }
+ .gif{
+    
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        height: 100px;
+        animation: heartBeat 1s infinite;
+
+ }
