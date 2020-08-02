@@ -15,8 +15,8 @@ main.style.backgroundColor = "white";
 
 });
 
-// js.addEventListener('mouseout', function run(){
-// console.log('Mouse now went outside');
-
-// });
+function toggleHide(){
+    audio.play();
+    
+}
 
