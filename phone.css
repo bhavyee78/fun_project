@@ -5,6 +5,13 @@ left: 14%;
 .abc{
     width: 300px;
 height: 300px;
-left: 18%;
+left: 8%;
 
+}
+.left {
+height: 95vh;
+}
+.right{
+    height: 95vh;
+    left: 95%;
 }
