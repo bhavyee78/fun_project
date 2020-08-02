@@ -5,18 +5,18 @@ left: 14%;
 .abc{
     width: 300px;
 height: 300px;
-left: 8%;
+left: 3%;
 
 }
 .left {
 height: 95vh;
 }
 .right{
-    height: 95vh;
+    height: 93vh;
     left: 95%;
 }
 .bottom {
 
-top: 95vh;
+top: 90vh;
 
 }
